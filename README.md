@@ -1,4 +1,4 @@
-# End-to-End Text-to-SQL LLM App (Gemini Pro)
+# End-to-End Text-to-SQL LLM App
 
 Convert natural-language questions into SQL, run them safely against a database, and return human-friendly answers — powered by Google’s Gemini models using the official `google-genai` Python SDK.
 
